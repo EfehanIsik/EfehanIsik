@@ -14,8 +14,8 @@ Ik ben een ontwikkelaar in opleiding die zich specialiseert in **front-end devel
 ## 🛠️ Skills & Tools
 
 ### Talen & Frameworks
-- **HTML5**
-- **CSS3**
+- **HTML**
+- **CSS**
   
 ---
 
