@@ -1,4 +1,4 @@
-# 💻 [Jouw Naam] - Front-End Developer bij de Bit Academy
+# 💻 [Efehan] - Front-End Developer bij de Bit Academy
 
 Welkom op mijn GitHub-profiel!  
 Ik ben een gepassioneerde front-end developer en volg momenteel een opleiding bij de **Bit Academy**. Mijn focus ligt op het bouwen van intuïtieve, responsieve en moderne webapplicaties die de gebruikerservaring verbeteren.
